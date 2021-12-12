@@ -1,0 +1,4 @@
+# Ignore all *.o, *.so files and executables
+*.o
+*.so
+surf
